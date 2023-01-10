@@ -236,7 +236,7 @@ if(require(snowfall)){ ## parallel computation
 
 
 
-## Post-processing results explorartion ------
+## Post-processing results exploration ------
 
 ## current conditons
 ### load binary projections
