@@ -20,10 +20,10 @@ conservation managers.
 4. Worst scenario
     - Maps of hotspots of vulnerability to climate change and 21st century refugia for each taxon under a worst-case scenario of climate change.
 4. Current period (1981-2010)
-    - Uncertainty interactive maps for all taxa for the current period.
+    - Uncertainty interactive maps for each taxon in the current period.
 5. Future period (2041-2070) - Moderate
     - Uncertainty interactive maps for each taxon under the moderate climate change scenario.
-6. Future period (2041-2070) - Moderate
+6. Future period (2041-2070) - Worst-case
     - Uncertainty interactive maps for each taxon under the worst-case climate change scenario.
 
 # Getting Started
@@ -33,5 +33,5 @@ To get started with the project, please refer to the PDF file at the Metadata fo
 # Conclusion
 This repository provides a valuable resource for decision makers, researchers 
 and anyone interested in understanding the impact of climate change on 
-Amazonia's largest primates and their habitats. The interactive maps re easy to 
-use. And the script can be customized to fit the specific needs of each user. If you have any questions or feedback, please don't hesitate to reach out to us.
+Amazonia's largest primates and their habitats. The interactive maps are easy to 
+use. And the script can be customized to fit the specific needs of each user. If you have any questions or feedback, please don't hesitate to reach out.
